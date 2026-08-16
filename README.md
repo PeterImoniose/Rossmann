@@ -32,7 +32,3 @@ point `DATA_DIR` in the first code cell at your own local copy.
 A natural follow-up is an actual sales forecasting model (the original Kaggle competition's
 task) - likely gradient boosting on the features explored here, plus the store-level
 variability identified in Section 8.
-
-## Author
-
-Avwerosuo Peter Imoniose
